@@ -1,0 +1,20 @@
+.rating-display {
+  display: inline-flex;
+}
+
+.rating-star {
+  width: 0.5em;
+  overflow: hidden;
+}
+
+.rating-star:nth-child(even) {
+  transform: scaleX(-1);
+}
+
+.rating-star--filled {
+  color: orange;
+}
+
+.rating-star--empty {
+  color: lightgray;
+}

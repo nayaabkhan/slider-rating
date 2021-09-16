@@ -18,3 +18,9 @@
 .rating-star--empty {
   color: lightgray;
 }
+
+.rc-slider-handle {
+  width: 20px;
+  height: 20px;
+  margin-top: -8px;
+}

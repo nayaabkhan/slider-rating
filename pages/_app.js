@@ -1,3 +1,4 @@
+import 'rc-slider/assets/index.css';
 import '../styles/globals.css'
 import './rating.css';
 
